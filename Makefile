@@ -1,2 +1,2 @@
 say-hello:
-	Hello, World!
+	node bin/say-hello.js
